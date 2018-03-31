@@ -110,7 +110,7 @@ nav .nav-item:first-child {
 /*portfolio*/
 
 #portfolio{
-    max-width: 325px;
+    max-width: 650px;
     overflow: auto;
 }
 
