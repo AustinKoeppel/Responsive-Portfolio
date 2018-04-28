@@ -1,0 +1,36 @@
+{
+    "XRP" : {
+        "LongName" : "Ripple",
+        "CurrentPrice": 280,
+        "img":"https://themerkle.com/wp-content/uploads/2015/12/Ripple-XRP.png",
+        "PriceHistory" : {
+            "BitStamp" : {
+                "2018.4.20" : 200,
+                "2018.4.21" : 250,
+                "2018.4.22" : 223
+            },
+            "CoinBase" : {
+                "2018.4.20" : 380,
+                "2018.4.21" : 290,
+                "2018.4.22" : 223
+            }
+        }
+    },
+    "BTC" : {
+        "LongName" : "Bitcoin",
+        "image": "https://bitcoin.org/img/icons/opengraph.png",
+        "CurrentPrice": 98000,
+        "PriceHistory" : {
+            "BitStamp" : {
+                "2018.4.20" : 92200,
+                "2018.4.21" : 10250,
+                "2018.4.22" : 82223
+            },
+            "CoinBase" : {
+                "2018.4.20" : 123380,
+                "2018.4.21" : 32290,
+                "2018.4.22" : 32223
+            }
+        }
+    }
+}
